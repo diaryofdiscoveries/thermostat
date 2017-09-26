@@ -22,7 +22,7 @@ Specification
 
 Technologies used
 ----
-- Javascript
+- JavaScript
 
 Tested using:
 ----
