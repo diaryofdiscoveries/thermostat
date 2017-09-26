@@ -1,7 +1,8 @@
 Thermostat
 ==========
 
-Build the logic needed to model a simple thermostat
+- Build the logic needed to model a simple thermostat
+- Use HTML/CSS to create a user interface on the web
 
 Objectives of exercise
 ----
