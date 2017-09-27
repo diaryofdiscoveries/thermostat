@@ -1,3 +1,5 @@
+![Therm Logo](public/display_therm.jpeg)
+
 Thermostat
 ==========
 
