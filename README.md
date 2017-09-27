@@ -3,10 +3,10 @@ Thermostat
 
 - Build the logic needed to model a simple thermostat
 - Use HTML/CSS to create a user interface on the web
-
-Objectives of exercise
-----
-Get started with JavaScript
+- Use jQuery to hook up buttons/links so they run the methods on the underlying thermostat model
+- Use a jQuery AJAX call to get the weather information for the user's selected city from a weather API. Display the weather information to the user
+- Style the thermostat
+- Create a remote API that the thermostat can talk to
 
 Specification
 -------
@@ -24,6 +24,9 @@ Specification
 Technologies used
 ----
 - JavaScript
+- jQuery
+- HTML
+- CSS
 
 Tested using:
 ----
