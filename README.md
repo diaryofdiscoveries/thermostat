@@ -1,4 +1,4 @@
-![Therm Logo](public/display_therm.jpeg)
+![Therm Logo](public/thermostat.png)
 
 Thermostat
 ==========
